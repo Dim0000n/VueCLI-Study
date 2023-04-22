@@ -1,3 +1,6 @@
 package-lock.json
 node_modules
 .vscode
+hello-world/node_modules
+hello-world/package-lock.json
+hello-world/dist
